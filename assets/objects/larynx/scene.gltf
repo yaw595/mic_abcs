@@ -1,0 +1,1560 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1360,
+      "max": [
+        18.6825008392334,
+        -91.506103515625,
+        1430.9300537109375
+      ],
+      "min": [
+        -19.980300903320313,
+        -122.44599914550781,
+        1391.4100341796875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 16320,
+      "componentType": 5126,
+      "count": 1360,
+      "max": [
+        0.9993692636489868,
+        0.9995768666267395,
+        0.9995419979095459
+      ],
+      "min": [
+        -0.9999240040779114,
+        -0.9962072372436523,
+        -0.9998636245727539
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 7830,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 32640,
+      "componentType": 5126,
+      "count": 1081,
+      "max": [
+        0.8680639863014221,
+        -114.02100372314453,
+        1411.18994140625
+      ],
+      "min": [
+        -2.305229902267456,
+        -117.87699890136719,
+        1404.6800537109375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 45612,
+      "componentType": 5126,
+      "count": 1081,
+      "max": [
+        0.9952422380447388,
+        0.9944679737091064,
+        0.9980669021606445
+      ],
+      "min": [
+        -0.9999389052391052,
+        -0.9996539950370789,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 31320,
+      "componentType": 5125,
+      "count": 3126,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58584,
+      "componentType": 5126,
+      "count": 656,
+      "max": [
+        -2.4958300590515137,
+        -100.87999725341797,
+        1405.1300048828125
+      ],
+      "min": [
+        -4.087029933929443,
+        -114.97100067138672,
+        1403.68994140625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 66456,
+      "componentType": 5126,
+      "count": 656,
+      "max": [
+        0.9994824528694153,
+        0.997414231300354,
+        0.9992789030075073
+      ],
+      "min": [
+        -0.9981212615966797,
+        -0.9894324541091919,
+        -0.9997542500495911
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 43824,
+      "componentType": 5125,
+      "count": 3444,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 74328,
+      "componentType": 5126,
+      "count": 1437,
+      "max": [
+        -1.4276299476623535,
+        -101.78399658203125,
+        1404.77001953125
+      ],
+      "min": [
+        -3.6122100353240967,
+        -115.11100006103516,
+        1403.780029296875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 91572,
+      "componentType": 5126,
+      "count": 1437,
+      "max": [
+        0.9989562630653381,
+        0.9994034767150879,
+        1.0
+      ],
+      "min": [
+        -0.9999979734420776,
+        -0.9785542488098145,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 57600,
+      "componentType": 5125,
+      "count": 4932,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 108816,
+      "componentType": 5126,
+      "count": 2832,
+      "max": [
+        -5.292270183563232,
+        -93.51480102539063,
+        1438.1400146484375
+      ],
+      "min": [
+        -19.55459976196289,
+        -121.9749984741211,
+        1415.9200439453125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 142800,
+      "componentType": 5126,
+      "count": 2832,
+      "max": [
+        0.9999781250953674,
+        0.9992803335189819,
+        0.9933254718780518
+      ],
+      "min": [
+        -0.9999751448631287,
+        -0.9985167384147644,
+        -0.9995089769363403
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 77328,
+      "componentType": 5125,
+      "count": 14652,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 176784,
+      "componentType": 5126,
+      "count": 554,
+      "max": [
+        -16.215200424194336,
+        -92.5779037475586,
+        1438.989990234375
+      ],
+      "min": [
+        -19.979900360107422,
+        -97.5447998046875,
+        1427.93994140625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 183432,
+      "componentType": 5126,
+      "count": 554,
+      "max": [
+        0.9996137619018555,
+        0.9988312125205994,
+        0.9989619851112366
+      ],
+      "min": [
+        -0.9999266266822815,
+        -0.996279239654541,
+        -0.9979469776153564
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 135936,
+      "componentType": 5125,
+      "count": 2922,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 190080,
+      "componentType": 5126,
+      "count": 1772,
+      "max": [
+        2.7074201107025146,
+        -108.95899963378906,
+        1404.449951171875
+      ],
+      "min": [
+        -4.015230178833008,
+        -116.76599884033203,
+        1391.510009765625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 211344,
+      "componentType": 5126,
+      "count": 1772,
+      "max": [
+        1.0,
+        0.9983556270599365,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 147624,
+      "componentType": 5125,
+      "count": 6150,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 232608,
+      "componentType": 5126,
+      "count": 679,
+      "max": [
+        2.7704899311065674,
+        -100.88300323486328,
+        1405.1300048828125
+      ],
+      "min": [
+        1.1830999851226807,
+        -114.97899627685547,
+        1403.699951171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 240756,
+      "componentType": 5126,
+      "count": 679,
+      "max": [
+        0.9977918863296509,
+        0.9974987506866455,
+        0.9991334676742554
+      ],
+      "min": [
+        -0.9993187785148621,
+        -0.9726824760437012,
+        -0.9999052286148071
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 172224,
+      "componentType": 5125,
+      "count": 3456,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 248904,
+      "componentType": 5126,
+      "count": 2376,
+      "max": [
+        2.309720039367676,
+        -101.77799987792969,
+        1404.72998046875
+      ],
+      "min": [
+        0.1172339990735054,
+        -115.10399627685547,
+        1403.77001953125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 277416,
+      "componentType": 5126,
+      "count": 2376,
+      "max": [
+        0.9999422430992126,
+        0.9987779855728149,
+        1.0
+      ],
+      "min": [
+        -0.9997199773788452,
+        -0.9998377561569214,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 186048,
+      "componentType": 5125,
+      "count": 5505,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 305928,
+      "componentType": 5126,
+      "count": 2853,
+      "max": [
+        18.260099411010742,
+        -93.51930236816406,
+        1438.1300048828125
+      ],
+      "min": [
+        3.982729911804199,
+        -121.99400329589844,
+        1415.9599609375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 340164,
+      "componentType": 5126,
+      "count": 2853,
+      "max": [
+        0.9999791383743286,
+        0.9997560977935791,
+        0.9910929799079895
+      ],
+      "min": [
+        -0.9999047517776489,
+        -0.9930967688560486,
+        -0.9989023804664612
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 208068,
+      "componentType": 5125,
+      "count": 14652,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 374400,
+      "componentType": 5126,
+      "count": 561,
+      "max": [
+        18.664600372314453,
+        -92.56449890136719,
+        1439.0
+      ],
+      "min": [
+        14.927599906921387,
+        -97.54730224609375,
+        1427.9000244140625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 381132,
+      "componentType": 5126,
+      "count": 561,
+      "max": [
+        0.9999302625656128,
+        0.9972266554832458,
+        0.9831887483596802
+      ],
+      "min": [
+        -0.9997400045394897,
+        -0.9952316284179688,
+        -0.9994208812713623
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 266676,
+      "componentType": 5125,
+      "count": 2892,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 387864,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        18.282499313354492,
+        -94.418701171875,
+        1440.8599853515625
+      ],
+      "min": [
+        -19.524200439453125,
+        -129.0,
+        1422.3699951171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 396108,
+      "componentType": 5126,
+      "count": 687,
+      "max": [
+        0.9992741346359253,
+        0.9996104836463928,
+        0.9995951056480408
+      ],
+      "min": [
+        -0.998282790184021,
+        -0.9993032217025757,
+        -0.9975406527519226
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 278244,
+      "componentType": 5125,
+      "count": 3588,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 404352,
+      "componentType": 5126,
+      "count": 1686,
+      "max": [
+        -0.19186000525951385,
+        -110.62200164794922,
+        1435.0400390625
+      ],
+      "min": [
+        -1.1291899681091309,
+        -125.12100219726563,
+        1411.9100341796875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 424584,
+      "componentType": 5126,
+      "count": 1686,
+      "max": [
+        1.0,
+        0.9993966221809387,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9751256704330444,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 292596,
+      "componentType": 5125,
+      "count": 6336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 444816,
+      "componentType": 5126,
+      "count": 2992,
+      "max": [
+        7.234429836273193,
+        -108.18900299072266,
+        1438.22998046875
+      ],
+      "min": [
+        -8.592020034790039,
+        -115.9000015258789,
+        1408.72998046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 480720,
+      "componentType": 5126,
+      "count": 2992,
+      "max": [
+        0.9999809861183167,
+        0.9996763467788696,
+        0.999883234500885
+      ],
+      "min": [
+        -0.9997397661209106,
+        -0.9981601238250732,
+        -0.9951179027557373
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 317940,
+      "componentType": 5125,
+      "count": 10806,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 516624,
+      "componentType": 5126,
+      "count": 937,
+      "max": [
+        10.86050033569336,
+        -92.61650085449219,
+        1404.719970703125
+      ],
+      "min": [
+        -12.166500091552734,
+        -111.46900177001953,
+        1387.199951171875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 527868,
+      "componentType": 5126,
+      "count": 937,
+      "max": [
+        0.999296247959137,
+        0.9989712238311768,
+        0.9985016584396362
+      ],
+      "min": [
+        -0.998262882232666,
+        -0.9961931109428406,
+        -0.9995149970054626
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 361164,
+      "componentType": 5125,
+      "count": 5106,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 539112,
+      "componentType": 5126,
+      "count": 282,
+      "max": [
+        -2.514970064163208,
+        -95.39360046386719,
+        1411.6099853515625
+      ],
+      "min": [
+        -8.017900466918945,
+        -102.6709976196289,
+        1403.47998046875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 542496,
+      "componentType": 5126,
+      "count": 282,
+      "max": [
+        0.9973482489585876,
+        0.9938367605209351,
+        0.9850164651870728
+      ],
+      "min": [
+        -0.9855669736862183,
+        -0.9676043391227722,
+        -0.9954681396484375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 381588,
+      "componentType": 5125,
+      "count": 1620,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 545880,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        6.722149848937988,
+        -95.37580108642578,
+        1411.6300048828125
+      ],
+      "min": [
+        1.1824300289154053,
+        -102.68099975585938,
+        1403.489990234375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 549288,
+      "componentType": 5126,
+      "count": 284,
+      "max": [
+        0.9998028874397278,
+        0.9964218735694885,
+        0.9814717769622803
+      ],
+      "min": [
+        -0.9932542443275452,
+        -0.9695623517036438,
+        -0.9992530941963196
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 388068,
+      "componentType": 5125,
+      "count": 1608,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 552696,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        -2.954050064086914,
+        -95.10350036621094,
+        1412.5999755859375
+      ],
+      "min": [
+        -4.468500137329102,
+        -96.68329620361328,
+        1411.0400390625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 553992,
+      "componentType": 5126,
+      "count": 108,
+      "max": [
+        0.9848989844322205,
+        0.9890068769454956,
+        0.9834797382354736
+      ],
+      "min": [
+        -0.8891916871070862,
+        -0.8942474126815796,
+        -0.9909279942512512
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 394500,
+      "componentType": 5125,
+      "count": 516,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 555288,
+      "componentType": 5126,
+      "count": 110,
+      "max": [
+        3.1275699138641357,
+        -95.10099792480469,
+        1412.550048828125
+      ],
+      "min": [
+        1.6489800214767456,
+        -96.7166976928711,
+        1411.050048828125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 556608,
+      "componentType": 5126,
+      "count": 110,
+      "max": [
+        0.9923333525657654,
+        0.9969398975372314,
+        0.9975019097328186
+      ],
+      "min": [
+        -0.9740754961967468,
+        -0.9851579070091248,
+        -0.9597080945968628
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 396564,
+      "componentType": 5125,
+      "count": 408,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 557928,
+      "componentType": 5126,
+      "count": 4476,
+      "max": [
+        9.78184986114502,
+        115.58544921875,
+        26.778701782226563
+      ],
+      "min": [
+        -11.245599746704102,
+        82.47747802734375,
+        7.289844989776611
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 611640,
+      "componentType": 5126,
+      "count": 4476,
+      "max": [
+        0.9997191429138184,
+        0.9999982118606567,
+        0.9999657869338989
+      ],
+      "min": [
+        -0.999993622303009,
+        -0.6466445922851563,
+        -0.9997298717498779
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 398196,
+      "componentType": 5125,
+      "count": 4674,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "University of Dundee School of Medicine (https://sketchfab.com/tilt)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/anatomy-of-the-larynx-a00bc73a303c46248db6a13a88b23404",
+      "title": "Anatomy of the Larynx"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 416892,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 665352,
+      "byteOffset": 416892,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1082244,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Thyroid_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.1894656,
+          0.5708528,
+          0.690196,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Vocal_Cords_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Hyoid_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7843136,
+          0.7198096,
+          0.41522480000000006,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Epiglottis_Mat",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7215688,
+          0.3537104,
+          0.7215688,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "Cricoid",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.06028448,
+          0.7686272000000001,
+          0.5551392,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "lambert8",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.7372552,
+          0.44126160000000003,
+          0.115648,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.6
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Thryoid_cartilage_Thyroid_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Thyroepiglottic_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "R_Vestibular_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vocal_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Right_Thyroid_Membrane_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Right_Thyroid_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15
+          },
+          "indices": 17,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Median_Cricothyroid_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 19,
+            "POSITION": 18
+          },
+          "indices": 20,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "L_Vestibular_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 22,
+            "POSITION": 21
+          },
+          "indices": 23,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Vical_Ligament01_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24
+          },
+          "indices": 26,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Left_Thyroid_Membrane_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 28,
+            "POSITION": 27
+          },
+          "indices": 29,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Left_Thyroid_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 31,
+            "POSITION": 30
+          },
+          "indices": 32,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Hyoid_Hyoid_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 34,
+            "POSITION": 33
+          },
+          "indices": 35,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Hyoepiglottic_Ligament_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36
+          },
+          "indices": 38,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Epoglottis_Epiglottis_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 40,
+            "POSITION": 39
+          },
+          "indices": 41,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cricoid_cartilage_Cricoid_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 43,
+            "POSITION": 42
+          },
+          "indices": 44,
+          "material": 4,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Right_Arytenoid_cartilage_lambert8_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 46,
+            "POSITION": 45
+          },
+          "indices": 47,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Left_Arytenoid_cartilage_lambert8_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 49,
+            "POSITION": 48
+          },
+          "indices": 50,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Right_Corniculate_Cartilage_lambert8_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 52,
+            "POSITION": 51
+          },
+          "indices": 53,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Left_Corniculate_Cartilage_lambert8_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 55,
+            "POSITION": 54
+          },
+          "indices": 56,
+          "material": 5,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Trachea_Vocal_Cords_Mat_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 58,
+            "POSITION": 57
+          },
+          "indices": 59,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "1bf4b6d6eb91468ebf382e58eaca6267.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8,
+        10,
+        12,
+        14,
+        16,
+        18,
+        20,
+        22,
+        24,
+        26,
+        28,
+        30,
+        32,
+        34,
+        39,
+        44
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        -2.220446049250313e-16,
+        0.0,
+        0.0,
+        -1356.1038818359375,
+        -83.352294921875,
+        1.0
+      ],
+      "name": "Larynx_Anatomy"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Thryoid_cartilage"
+    },
+    {
+      "mesh": 0,
+      "name": "Thryoid_cartilage_Thyroid_Mat_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Thyroepiglottic_Ligament"
+    },
+    {
+      "mesh": 1,
+      "name": "Thyroepiglottic_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "R_Vestibular_Ligament"
+    },
+    {
+      "mesh": 2,
+      "name": "R_Vestibular_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        11
+      ],
+      "name": "Vocal_Ligament"
+    },
+    {
+      "mesh": 3,
+      "name": "Vocal_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        13
+      ],
+      "name": "Right_Thyroid_Membrane"
+    },
+    {
+      "mesh": 4,
+      "name": "Right_Thyroid_Membrane_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        15
+      ],
+      "name": "Right_Thyroid_Ligament"
+    },
+    {
+      "mesh": 5,
+      "name": "Right_Thyroid_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        17
+      ],
+      "name": "Median_Cricothyroid_Ligament"
+    },
+    {
+      "mesh": 6,
+      "name": "Median_Cricothyroid_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        19
+      ],
+      "name": "L_Vestibular_Ligament"
+    },
+    {
+      "mesh": 7,
+      "name": "L_Vestibular_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        21
+      ],
+      "name": "Vical_Ligament01"
+    },
+    {
+      "mesh": 8,
+      "name": "Vical_Ligament01_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        23
+      ],
+      "name": "Left_Thyroid_Membrane"
+    },
+    {
+      "mesh": 9,
+      "name": "Left_Thyroid_Membrane_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        25
+      ],
+      "name": "Left_Thyroid_Ligament"
+    },
+    {
+      "mesh": 10,
+      "name": "Left_Thyroid_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        27
+      ],
+      "name": "Hyoid"
+    },
+    {
+      "mesh": 11,
+      "name": "Hyoid_Hyoid_Mat_0"
+    },
+    {
+      "children": [
+        29
+      ],
+      "name": "Hyoepiglottic_Ligament"
+    },
+    {
+      "mesh": 12,
+      "name": "Hyoepiglottic_Ligament_Vocal_Cords_Mat_0"
+    },
+    {
+      "children": [
+        31
+      ],
+      "name": "Epoglottis"
+    },
+    {
+      "mesh": 13,
+      "name": "Epoglottis_Epiglottis_Mat_0"
+    },
+    {
+      "children": [
+        33
+      ],
+      "name": "Cricoid_cartilage"
+    },
+    {
+      "mesh": 14,
+      "name": "Cricoid_cartilage_Cricoid_0"
+    },
+    {
+      "children": [
+        35,
+        37
+      ],
+      "name": "Arytenoid_cartilages"
+    },
+    {
+      "children": [
+        36
+      ],
+      "name": "Right_Arytenoid_cartilage"
+    },
+    {
+      "mesh": 15,
+      "name": "Right_Arytenoid_cartilage_lambert8_0"
+    },
+    {
+      "children": [
+        38
+      ],
+      "name": "Left_Arytenoid_cartilage"
+    },
+    {
+      "mesh": 16,
+      "name": "Left_Arytenoid_cartilage_lambert8_0"
+    },
+    {
+      "children": [
+        40,
+        42
+      ],
+      "name": "Corniculate_Cartilages"
+    },
+    {
+      "children": [
+        41
+      ],
+      "name": "Right_Corniculate_Cartilage"
+    },
+    {
+      "mesh": 17,
+      "name": "Right_Corniculate_Cartilage_lambert8_0"
+    },
+    {
+      "children": [
+        43
+      ],
+      "name": "Left_Corniculate_Cartilage"
+    },
+    {
+      "mesh": 18,
+      "name": "Left_Corniculate_Cartilage_lambert8_0"
+    },
+    {
+      "children": [
+        45
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        -2.220446049250313e-16,
+        0.0,
+        0.0,
+        -83.352294921875,
+        1279.8544921875,
+        1.0
+      ],
+      "name": "Trachea"
+    },
+    {
+      "mesh": 19,
+      "name": "Trachea_Vocal_Cords_Mat_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

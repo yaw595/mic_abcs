@@ -1,0 +1,11 @@
+Model Information:
+* title:	Anatomy of the Larynx
+* source:	https://sketchfab.com/3d-models/anatomy-of-the-larynx-a00bc73a303c46248db6a13a88b23404
+* author:	University of Dundee School of Medicine (https://sketchfab.com/tilt)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Anatomy of the Larynx" (https://sketchfab.com/3d-models/anatomy-of-the-larynx-a00bc73a303c46248db6a13a88b23404) by University of Dundee School of Medicine (https://sketchfab.com/tilt) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
